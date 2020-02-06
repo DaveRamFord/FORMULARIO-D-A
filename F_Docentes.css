@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: rgb(18, 219, 219);
     padding-left: 50px;
     padding-right: 50px;
     padding-bottom: 25px;
@@ -15,7 +15,7 @@ body p{
 .cuadro{
     padding: 25px;
     box-shadow: 0 0 20px 0 rgba(255, 255, 255, .3);
-    background-color: #222222d0;
+    background-color: #0971f8d0;
     text-align: center;
 }
 img{
@@ -31,7 +31,7 @@ textarea{
     height: auto;
 }
 input[type=submit]{
-    background-color: #ca770b;
+    background-color: #0bca24;
     color: black;
     text-transform: uppercase;
     height: 30px;
@@ -48,7 +48,7 @@ input[type=text]:valid{
     border-bottom: solid 5px rgb(44, 128, 18);
 }
 input[type=text]:invalid{
-    border-bottom: solid 5px #ca770b;
+    border-bottom: solid 5px #0bca34;
 }
 label{
     color: blanchedalmond;
